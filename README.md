@@ -1,7 +1,9 @@
 # Superstore-Sales-Dashboard
 
 Superstore Sales Dashboard – Power BI
+
 📊 Project Overview
+
 This project is an interactive Sales Summary Dashboard built using Power BI.
 It provides insights into sales performance, customer segments, top products, and regional performance using the Superstore Sales dataset.
 
