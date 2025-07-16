@@ -31,3 +31,6 @@ The Canon imageCLASS 2200 Advanced Copier is the top-selling product.
 Sales show occasional spikes, likely due to discounts or seasonal promotions.
 
 The Consumer segment drives nearly 50% of total sales, but Corporate and Home Office also play significant roles. Targeted strategies for these business segments could increase total sales further.
+
+📧 Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/justine-josh-larona-79428a36a/).
